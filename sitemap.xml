@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://yin0713.github.io/</loc>
-    <lastmod>2025-04-01</lastmod>  <!-- 可替换为最新修改日期 -->
-    <changefreq>monthly</changefreq>  <!-- 更新频率：always/daily/weekly/monthly/yearly/never -->
-    <priority>1.0</priority>  <!-- 优先级 0.0-1.0 -->
-  </url>
-</urlset>
